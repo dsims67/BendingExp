@@ -1,6 +1,6 @@
 # BendingExp
 BendingExp by Savior67
-http://aetheriumwars.com
+(http://aetheriumwars.com)
 
 A minecraft 1.8 plugin dependent on the Project Korra plugin (http://projectkorra.com/)
 
