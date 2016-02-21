@@ -1,0 +1,15 @@
+name: BendingEXP
+main: main.java.com.aetheriumwars.bendingexp.BendingExp
+version: 0.1
+author: savior67
+depend: ['ProjectKorra']
+
+commands:
+  bendexp:
+    description: Main command for BendingExp
+    usage: /bendexp
+    aliases: [bxp]
+  skills:
+    description: Main command for BendingExp
+    usage: /skills
+    permission: bendingexp.skills
